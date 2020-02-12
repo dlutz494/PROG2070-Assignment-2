@@ -1,0 +1,6 @@
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\bin\Debug\DLAssign2.exe.config
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\bin\Debug\DLAssign2.exe
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\bin\Debug\DLAssign2.pdb
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\obj\Debug\DLAssign2.csprojAssemblyReference.cache
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\obj\Debug\DLAssign2.exe
+F:\College\Semester 4\Software Quality Assurance\Assignment 2\DLAssign2\DLAssign2\obj\Debug\DLAssign2.pdb
