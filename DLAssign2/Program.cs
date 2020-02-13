@@ -32,6 +32,12 @@ namespace DLAssign2
                     {
                         // Get the option from the user
                         option = int.Parse(Console.ReadLine());
+                        if (option < 1 || option > 2)
+                        {
+                            // Clear the screen and display an error
+                            Console.Clear();
+                            Console.WriteLine("Error, invalid input, please try again");
+                        }
                     }
                     catch (Exception)
                     {
